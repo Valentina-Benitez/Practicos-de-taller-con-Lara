@@ -1,2 +1,2 @@
-# Practicos-de-taller-con-Lara
+# Practicos_Taller2
 Usaremos este espacio para subir los practicos 
